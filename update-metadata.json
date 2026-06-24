@@ -1,5 +1,16 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/girish-zen/pdf-manager-releases/releases/download/v1.0.2/GSTZenPDFManager.exe",
-  "releaseNotes": "1. Fixed bug in multi-line custom stamp rendering.\n2. Automatic check updates system integrated."
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/girish-zen/pdf-manager-releases/releases/download/v1.0.3/GSTZenPDFManager.exe",
+  "releaseNotes": [
+    "Added Document Cover functionality for merged documents.",
+    "Enhanced pagination with new formats and font styles.",
+    "Updated Manual Sign placement mode.",
+    "Added Auto Index hyperlinks.",
+    "Fixed DSC validation issues.",
+    "Added OCR support.",
+    "Enhanced Custom Stamp to support paragraphs.",
+    "Added Auto Update functionality.",
+    "Introduced Preview functionality.",
+    "Improved the main user interface."
+  ]
 }
