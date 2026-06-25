@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "downloadUrl": "https://github.com/girish-zen/pdf-manager-releases/releases/download/v1.0.3/GSTZenPDFManager.exe",
+  "downloadUrl": "https://github.com/girish-zen/pdf-manager-releases/releases/download/v1.0.2/GSTZenPDFManager.exe",
   "releaseNotes": [
     "1. Added New Features Like Document Cover for merged document and created a specific Function to create Cover page",
     "2. Updated positioning in paginate and added Font style for page number like Bold , Italic. Added additional formats like 1, 1 of 100, page 1, page 1 of 100 as before we were having prefix logic.",
