@@ -1,16 +1,5 @@
 {
   "version": "1.0.2",
   "downloadUrl": "https://github.com/girish-zen/pdf-manager-releases/releases/download/v1.0.2/GSTZenPDFManager.exe",
-  "releaseNotes": [
-    "1. Added New Features Like Document Cover for merged document and created a specific Function to create Cover page",
-    "2. Updated positioning in paginate and added Font style for page number like Bold , Italic. Added additional formats like 1, 1 of 100, page 1, page 1 of 100 as before we were having prefix logic.",
-    "3. Manual sign updated with placement mode, if the placement mode was specific page and postion before we were not having logic to add it for all pages now it has been updated.",
-    "4. Auto index with hyperlink as been added. (existing with creation of auto index but now added hypterlink which will navigate to that page specifically",
-    "5. Issue in DSC validation has been fixed.",
-    "6. Added OCR where the scanned image can be converted to searchable text.",
-    "7. In the Stamp menu, the Custom Stamp option previously allowed users to enter only a single sentence. This has now been enhanced to support multi-line text, enabling users to add complete paragraphs as part of the custom stamp content.",
-    "8. Auto Update feature has been introduced, enabling the application to automatically check for and install the latest available updates, ensuring users always have access to the most recent enhancements and fixes.",
-    "9. Preview feature that allows users to view the generated output document before saving it, enabling verification of the final result and reducing the need for rework.",
-    "10. Improved the main user interface to provide better visibility, a cleaner layout, and an enhanced user experience."
-  ]
+  "releaseNotes": "1. Added New Features Like Document Cover for merged document and created a specific Function to create Cover page.\n2. Updated positioning in paginate and added Font style for page number like Bold , Italic. Added additional formats like 1, 1 of 100, page 1, page 1 of 100 as before we were having prefix logic.\n3. Manual sign updated with placement mode, if the placement mode was specific page and postion before we were not having logic to add it for all pages now it has been updated.\n4. Auto index with hyperlink as been added. (existing with creation of auto index but now added hypterlink which will navigate to that page specifically.\n5. Issue in DSC validation has been fixed.\n6. Added OCR where the scanned image can be converted to searchable text.\n7. In the Stamp menu, the Custom Stamp option previously allowed users to enter only a single sentence. This has now been enhanced to support multi-line text, enabling users to add complete paragraphs as part of the custom stamp content.\n8. Auto Update feature has been introduced, enabling the application to automatically check for and install the latest available updates, ensuring users always have access to the most recent enhancements and fixes.\n9. Preview feature that allows users to view the generated output document before saving it, enabling verification of the final result and reducing the need for rework.\n10. Improved the main user interface to provide better visibility, a cleaner layout, and an enhanced user experience."
 }
